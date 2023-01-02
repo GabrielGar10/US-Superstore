@@ -140,3 +140,8 @@ ORDER BY
   Quantity_Sold DESC
 LIMIT
   10;
+
+## Data Visualization
+This was done using Tableau
+![Dashboard 1](https://user-images.githubusercontent.com/120590361/210282631-12b37d49-84d5-488e-abf8-1fb30bc89aed.png)
+![Dashboard 2](https://user-images.githubusercontent.com/120590361/210282632-b99f0344-aa76-452a-a8ef-7ca12207c9db.png)
