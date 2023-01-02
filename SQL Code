@@ -92,17 +92,6 @@ ORDER BY
 LIMIT
   10;
 
-## Which Product Sub-Category tend to have a higher discount rate?
-SELECT
-  Sub_Category,
-  ROUND(SUM(Discount),2) AS Discount_Rate
-FROM
-  `US_Superstore.Superstore`
-GROUP BY
-  Sub_Category
-ORDER BY
-  Discount_Rate DESC;
-
 ## Which Region had the highest profits?
 SELECT
   Region,
